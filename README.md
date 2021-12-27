@@ -1,3 +1,4 @@
-[MagigPuzzleTest.docx](https://github.com/KattyNemka/MagicPuzzleTest/files/7779211/MagigPuzzleTest.docx)
+[MagicPuzzleTest.docx](https://github.com/KattyNemka/MagicPuzzleTest/files/7779215/MagicPuzzleTest.docx)
+
 # MagicPuzzleTest
 Bag-reports
