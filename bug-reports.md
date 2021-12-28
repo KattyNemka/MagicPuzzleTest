@@ -7,6 +7,9 @@ Bug reports
 
 [MagicPuzzleTest.docx](https://github.com/KattyNemka/MagicPuzzleTest/files/7783795/MagicPuzzleTest.docx)
 
+Link to the screenshots video:
+https://drive.google.com/drive/folders/1_gKT4vRLAVV_nJLOSuWswB2ZzwhPTboq?usp=sharing
+
 
 
 
